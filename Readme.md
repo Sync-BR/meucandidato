@@ -1,4 +1,4 @@
-# Meu Candidato
+# Meus Candidatos
 
 ## Descrição
 O projeto **Meu Candidato** vai ser desenvolvido com o objetivo de facilitar o acompanhamento dos eleitores em relação ao desempenho dos candidatos políticos de sua preferência. A plataforma permite que o usuário visualize informações detalhadas sobre os candidatos, acompanhando suas propostas, o andamento dos projetos, e verificando se os compromissos de campanha estão sendo cumpridos.
